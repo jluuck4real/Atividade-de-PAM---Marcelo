@@ -1,1 +1,2 @@
-# Atividade-de-PAM---Marcelo
+<img width="340" height="743" alt="image" src="https://github.com/user-attachments/assets/ec4e0c43-5298-4647-bb70-6f7c698b97f6" />
+O aplicativo tem como função realizar o controle de estoque de produtos de forma simples e organizada. Ele permite cadastrar itens, visualizar os produtos disponíveis, controlar a entrada e saída de quantidades e remover produtos do sistema quando necessário. Além disso, as informações ficam armazenadas no dispositivo, permitindo que os dados permaneçam salvos mesmo após o fechamento do aplicativo.
